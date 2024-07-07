@@ -19,7 +19,7 @@ footer: >
 This page explains how you can participate in WAI work, for example:
 * implement, promote, and review guidelines and other accessibility resources
 * share your input on drafts via GitHub or e-mail
-* occasionally participate in e-mail discussions
+* occasionally  participate in e-mail discussions
 * contribute significant time to participate in a Working Group or Task Force
 
 {::nomarkdown}
